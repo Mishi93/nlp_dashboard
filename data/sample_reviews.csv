@@ -1,0 +1,321 @@
+review_id,review_text,rating,category,review_date
+REV_0001,"It works okay, but nothing extraordinary. Standard performance.",3,Clothing,2026-03-04
+REV_0002,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",4,Books,2026-06-01
+REV_0003,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-03-01
+REV_0004,"It works okay, but nothing extraordinary. Standard performance. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-06-16
+REV_0005,Customer service was completely unhelpful when I asked for a return.,2,Home & Kitchen,2026-05-31
+REV_0006,Fantastic value for money. The build quality is exceptional.,4,Home & Kitchen,2026-03-29
+REV_0007,An absolute page-turner! I couldn't put it down. The character development and psychological tension were amazing.,4,Books,2026-01-24
+REV_0008,An absolute page-turner! I couldn't put it down.,5,Clothing,2026-01-12
+REV_0009,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-05-22
+REV_0010,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",5,Electronics,2026-06-30
+REV_0011,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,4,Books,2026-03-01
+REV_0012,Do not buy! The description is completely misleading.,2,Home & Kitchen,2026-06-12
+REV_0013,The plot made absolutely no sense and the ending was highly frustrating.,1,Clothing,2026-02-23
+REV_0014,"Average quality for the price. Not bad, but not great either. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-05-17
+REV_0015,Terribly slow and glitchy. It keeps crashing every few minutes.,1,Home & Kitchen,2026-03-11
+REV_0016,The plot made absolutely no sense and the ending was highly frustrating. The pacing was terrible and the characters were flat.,1,Books,2026-02-28
+REV_0017,"Extremely uncomfortable, shrunk after the very first wash.",2,Clothing,2026-01-17
+REV_0018,A masterclass in design. Works seamlessly right out of the box.,5,Home & Kitchen,2026-04-12
+REV_0019,"The quality is extremely poor, feels cheap and fragile.",2,Clothing,2026-02-05
+REV_0020,"Very efficient, saves me so much time daily. A great buy.",5,Home & Kitchen,2026-05-30
+REV_0021,Fantastic value for money. The build quality is exceptional.,4,Home & Kitchen,2026-01-24
+REV_0022,"The quality is extremely poor, feels cheap and fragile. It overheats constantly and the screen resolution is awful.",1,Electronics,2026-06-24
+REV_0023,The plot twists kept me guessing until the very last page.,4,Home & Kitchen,2026-06-02
+REV_0024,Very poor design choice. It is highly unintuitive to use. The pacing was terrible and the characters were flat.,2,Books,2026-06-24
+REV_0025,The plot made absolutely no sense and the ending was highly frustrating. The pacing was terrible and the characters were flat.,2,Books,2026-03-17
+REV_0026,Absolutely loved this product! It exceeded all my expectations.,5,Clothing,2026-05-09
+REV_0027,Do not buy! The description is completely misleading. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-02-09
+REV_0028,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",4,Books,2026-06-03
+REV_0029,Highly recommend to anyone looking for high quality and great performance.,4,Clothing,2026-03-20
+REV_0030,"Very efficient, saves me so much time daily. A great buy. The character development and psychological tension were amazing.",4,Books,2026-01-22
+REV_0031,Very poor design choice. It is highly unintuitive to use. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-02-02
+REV_0032,"The customer service was helpful, but the setup process was tedious. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-03-09
+REV_0033,A standard purchase. It meets basic requirements perfectly fine.,3,Home & Kitchen,2026-02-24
+REV_0034,Do not buy! The description is completely misleading.,1,Home & Kitchen,2026-06-21
+REV_0035,An okay experience overall. Might consider other options next time.,3,Home & Kitchen,2026-01-31
+REV_0036,An absolute page-turner! I couldn't put it down. The character development and psychological tension were amazing.,4,Books,2026-05-31
+REV_0037,"A standard purchase. It meets basic requirements perfectly fine. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-01-02
+REV_0038,A masterclass in design. Works seamlessly right out of the box. The character development and psychological tension were amazing.,4,Books,2026-01-09
+REV_0039,Very poor design choice. It is highly unintuitive to use. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-03-13
+REV_0040,"Decent functionality, though it takes some time to get used to. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-05-27
+REV_0041,"Decent functionality, though it takes some time to get used to.",3,Home & Kitchen,2026-04-15
+REV_0042,The plot twists kept me guessing until the very last page.,4,Clothing,2026-04-19
+REV_0043,Highly recommend to anyone looking for high quality and great performance. The character development and psychological tension were amazing.,4,Books,2026-04-14
+REV_0044,Customer service was completely unhelpful when I asked for a return. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-02-18
+REV_0045,"The product arrived on time, but the packaging was slightly damaged.",3,Home & Kitchen,2026-02-16
+REV_0046,Highly recommend to anyone looking for high quality and great performance.,4,Home & Kitchen,2026-05-21
+REV_0047,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-02-12
+REV_0048,A masterclass in design. Works seamlessly right out of the box.,5,Home & Kitchen,2026-01-16
+REV_0049,The plot twists kept me guessing until the very last page.,4,Clothing,2026-04-27
+REV_0050,Fantastic value for money. The build quality is exceptional. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-03-17
+REV_0051,"Very efficient, saves me so much time daily. A great buy. The character development and psychological tension were amazing.",4,Books,2026-03-22
+REV_0052,"Extremely comfortable, fits perfectly and looks amazing. Battery life is exceptional and the UI is incredibly smooth.",5,Electronics,2026-01-15
+REV_0053,"The quality is extremely poor, feels cheap and fragile. The pacing was terrible and the characters were flat.",1,Books,2026-06-02
+REV_0054,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,4,Books,2026-05-26
+REV_0055,"Very efficient, saves me so much time daily. A great buy. The character development and psychological tension were amazing.",4,Books,2026-04-18
+REV_0056,A standard purchase. It meets basic requirements perfectly fine.,3,Clothing,2026-03-08
+REV_0057,A masterclass in design. Works seamlessly right out of the box.,5,Clothing,2026-04-12
+REV_0058,Brilliantly written with complex characters and deep atmosphere.,5,Clothing,2026-01-19
+REV_0059,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-05-10
+REV_0060,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-04-05
+REV_0061,"Extremely comfortable, fits perfectly and looks amazing.",5,Clothing,2026-06-06
+REV_0062,Very poor design choice. It is highly unintuitive to use.,1,Clothing,2026-06-19
+REV_0063,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,4,Books,2026-01-28
+REV_0064,Do not buy! The description is completely misleading.,1,Clothing,2026-06-04
+REV_0065,A masterclass in design. Works seamlessly right out of the box.,5,Clothing,2026-05-10
+REV_0066,Highly recommend to anyone looking for high quality and great performance.,4,Home & Kitchen,2026-03-12
+REV_0067,Fantastic value for money. The build quality is exceptional.,5,Clothing,2026-02-11
+REV_0068,Very poor design choice. It is highly unintuitive to use. The pacing was terrible and the characters were flat.,2,Books,2026-01-29
+REV_0069,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",4,Books,2026-04-05
+REV_0070,"The product arrived on time, but the packaging was slightly damaged.",3,Home & Kitchen,2026-02-02
+REV_0071,Absolutely loved this product! It exceeded all my expectations.,5,Clothing,2026-02-23
+REV_0072,"Average quality for the price. Not bad, but not great either.",3,Clothing,2026-05-24
+REV_0073,Deeply regretted this purchase. Avoid at all costs. It overheats constantly and the screen resolution is awful.,2,Electronics,2026-03-02
+REV_0074,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-02-15
+REV_0075,"Extremely uncomfortable, shrunk after the very first wash. It overheats constantly and the screen resolution is awful.",2,Electronics,2026-03-10
+REV_0076,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,4,Books,2026-05-01
+REV_0077,An absolute page-turner! I couldn't put it down.,5,Clothing,2026-02-28
+REV_0078,The plot twists kept me guessing until the very last page.,4,Clothing,2026-03-13
+REV_0079,The plot made absolutely no sense and the ending was highly frustrating.,2,Home & Kitchen,2026-06-23
+REV_0080,Terrible experience. The item arrived broken and stopped working after two days. The pacing was terrible and the characters were flat.,2,Books,2026-03-08
+REV_0081,Absolutely loved this product! It exceeded all my expectations. The character development and psychological tension were amazing.,5,Books,2026-06-02
+REV_0082,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,5,Books,2026-04-09
+REV_0083,Do not buy! The description is completely misleading. The pacing was terrible and the characters were flat.,1,Books,2026-04-22
+REV_0084,An absolute page-turner! I couldn't put it down.,4,Home & Kitchen,2026-01-18
+REV_0085,Deeply regretted this purchase. Avoid at all costs.,2,Clothing,2026-06-19
+REV_0086,Very poor design choice. It is highly unintuitive to use.,2,Clothing,2026-06-20
+REV_0087,Super fast delivery and brilliant functionality. 5 stars! Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-02-19
+REV_0088,Fantastic value for money. The build quality is exceptional.,5,Clothing,2026-04-14
+REV_0089,"It works okay, but nothing extraordinary. Standard performance.",3,Clothing,2026-03-15
+REV_0090,Brilliantly written with complex characters and deep atmosphere.,5,Home & Kitchen,2026-04-24
+REV_0091,"The customer service was helpful, but the setup process was tedious.",3,Home & Kitchen,2026-02-13
+REV_0092,"It does exactly what it says on the box, no more, no less.",3,Clothing,2026-01-24
+REV_0093,Do not buy! The description is completely misleading. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-02-20
+REV_0094,A masterclass in design. Works seamlessly right out of the box.,4,Home & Kitchen,2026-06-06
+REV_0095,Terribly slow and glitchy. It keeps crashing every few minutes.,1,Home & Kitchen,2026-06-11
+REV_0096,"Fits alright, but the material is a bit thinner than expected.",3,Home & Kitchen,2026-04-13
+REV_0097,Highly recommend to anyone looking for high quality and great performance.,4,Home & Kitchen,2026-02-26
+REV_0098,Absolutely loved this product! It exceeded all my expectations. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-02-01
+REV_0099,"Extremely comfortable, fits perfectly and looks amazing.",5,Clothing,2026-04-24
+REV_0100,"The customer service was helpful, but the setup process was tedious.",3,Home & Kitchen,2026-05-21
+REV_0101,Brilliantly written with complex characters and deep atmosphere.,4,Home & Kitchen,2026-03-08
+REV_0102,Very poor design choice. It is highly unintuitive to use.,2,Home & Kitchen,2026-06-10
+REV_0103,Highly recommend to anyone looking for high quality and great performance.,5,Clothing,2026-03-02
+REV_0104,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",5,Books,2026-02-05
+REV_0105,Fantastic value for money. The build quality is exceptional. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-01-17
+REV_0106,"Extremely comfortable, fits perfectly and looks amazing.",5,Home & Kitchen,2026-04-17
+REV_0107,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,5,Books,2026-05-28
+REV_0108,An absolute page-turner! I couldn't put it down.,4,Clothing,2026-04-10
+REV_0109,Very poor design choice. It is highly unintuitive to use. It overheats constantly and the screen resolution is awful.,2,Electronics,2026-05-05
+REV_0110,Brilliantly written with complex characters and deep atmosphere. The character development and psychological tension were amazing.,5,Books,2026-04-10
+REV_0111,Fantastic value for money. The build quality is exceptional.,5,Home & Kitchen,2026-02-02
+REV_0112,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-01-22
+REV_0113,"The product arrived on time, but the packaging was slightly damaged.",3,Home & Kitchen,2026-02-16
+REV_0114,An absolute page-turner! I couldn't put it down. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-04-27
+REV_0115,Super fast delivery and brilliant functionality. 5 stars!,5,Home & Kitchen,2026-03-06
+REV_0116,Terrible experience. The item arrived broken and stopped working after two days. The pacing was terrible and the characters were flat.,2,Books,2026-03-31
+REV_0117,Absolutely loved this product! It exceeded all my expectations. The character development and psychological tension were amazing.,4,Books,2026-03-05
+REV_0118,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",4,Electronics,2026-03-03
+REV_0119,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",4,Electronics,2026-04-30
+REV_0120,"The storyline was decent, but the pacing felt a bit slow in the middle. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-06-05
+REV_0121,"Average quality for the price. Not bad, but not great either. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-03-21
+REV_0122,Super fast delivery and brilliant functionality. 5 stars!,4,Home & Kitchen,2026-04-12
+REV_0123,Completely disappointed. Total waste of money and time. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-01-27
+REV_0124,"It does exactly what it says on the box, no more, no less. It's a standard thriller novel, good for a casual read.",3,Books,2026-05-25
+REV_0125,Very poor design choice. It is highly unintuitive to use.,2,Home & Kitchen,2026-06-19
+REV_0126,Absolutely loved this product! It exceeded all my expectations.,5,Home & Kitchen,2026-05-06
+REV_0127,Brilliantly written with complex characters and deep atmosphere. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-04-22
+REV_0128,"Very efficient, saves me so much time daily. A great buy.",5,Home & Kitchen,2026-04-30
+REV_0129,An absolute page-turner! I couldn't put it down. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-01-23
+REV_0130,A masterclass in design. Works seamlessly right out of the box.,5,Home & Kitchen,2026-05-26
+REV_0131,"Fits alright, but the material is a bit thinner than expected.",3,Clothing,2026-01-08
+REV_0132,Fantastic value for money. The build quality is exceptional.,5,Home & Kitchen,2026-02-24
+REV_0133,An absolute page-turner! I couldn't put it down.,5,Clothing,2026-06-02
+REV_0134,Very poor design choice. It is highly unintuitive to use. The pacing was terrible and the characters were flat.,2,Books,2026-05-13
+REV_0135,Customer service was completely unhelpful when I asked for a return.,1,Home & Kitchen,2026-05-06
+REV_0136,"Decent functionality, though it takes some time to get used to.",3,Home & Kitchen,2026-06-15
+REV_0137,Terrible experience. The item arrived broken and stopped working after two days. The pacing was terrible and the characters were flat.,2,Books,2026-03-17
+REV_0138,Super fast delivery and brilliant functionality. 5 stars!,4,Clothing,2026-05-02
+REV_0139,"The storyline was decent, but the pacing felt a bit slow in the middle.",3,Home & Kitchen,2026-05-21
+REV_0140,Super fast delivery and brilliant functionality. 5 stars!,5,Clothing,2026-03-06
+REV_0141,An absolute page-turner! I couldn't put it down. The character development and psychological tension were amazing.,4,Books,2026-05-18
+REV_0142,Customer service was completely unhelpful when I asked for a return. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-05-04
+REV_0143,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-03-17
+REV_0144,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,4,Books,2026-05-17
+REV_0145,Absolutely loved this product! It exceeded all my expectations.,4,Clothing,2026-06-28
+REV_0146,Completely disappointed. Total waste of money and time. The pacing was terrible and the characters were flat.,2,Books,2026-05-27
+REV_0147,Brilliantly written with complex characters and deep atmosphere.,5,Clothing,2026-02-17
+REV_0148,Terribly slow and glitchy. It keeps crashing every few minutes. The pacing was terrible and the characters were flat.,2,Books,2026-01-17
+REV_0149,"Very efficient, saves me so much time daily. A great buy. The character development and psychological tension were amazing.",4,Books,2026-02-08
+REV_0150,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-01-31
+REV_0151,"Fits alright, but the material is a bit thinner than expected. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-05-14
+REV_0152,Super fast delivery and brilliant functionality. 5 stars!,5,Home & Kitchen,2026-03-20
+REV_0153,"It works okay, but nothing extraordinary. Standard performance. It's a standard thriller novel, good for a casual read.",3,Books,2026-02-23
+REV_0154,"It does exactly what it says on the box, no more, no less. It's a standard thriller novel, good for a casual read.",3,Books,2026-02-10
+REV_0155,Fantastic value for money. The build quality is exceptional. The character development and psychological tension were amazing.,4,Books,2026-04-15
+REV_0156,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,5,Books,2026-03-01
+REV_0157,Brilliantly written with complex characters and deep atmosphere. The character development and psychological tension were amazing.,5,Books,2026-06-25
+REV_0158,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",5,Electronics,2026-04-19
+REV_0159,Fantastic value for money. The build quality is exceptional.,4,Clothing,2026-02-06
+REV_0160,Super fast delivery and brilliant functionality. 5 stars!,4,Clothing,2026-04-23
+REV_0161,The plot twists kept me guessing until the very last page.,5,Clothing,2026-05-09
+REV_0162,"An okay experience overall. Might consider other options next time. It's a standard thriller novel, good for a casual read.",3,Books,2026-06-03
+REV_0163,An absolute page-turner! I couldn't put it down.,5,Clothing,2026-01-07
+REV_0164,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,4,Books,2026-02-14
+REV_0165,Super fast delivery and brilliant functionality. 5 stars! Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-05-30
+REV_0166,Highly recommend to anyone looking for high quality and great performance.,5,Home & Kitchen,2026-03-31
+REV_0167,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-03-26
+REV_0168,Super fast delivery and brilliant functionality. 5 stars!,5,Home & Kitchen,2026-05-21
+REV_0169,An absolute page-turner! I couldn't put it down.,4,Clothing,2026-03-24
+REV_0170,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",5,Books,2026-06-18
+REV_0171,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",2,Books,2026-02-18
+REV_0172,A standard purchase. It meets basic requirements perfectly fine.,3,Home & Kitchen,2026-06-10
+REV_0173,A masterclass in design. Works seamlessly right out of the box.,4,Clothing,2026-05-21
+REV_0174,Brilliantly written with complex characters and deep atmosphere.,5,Home & Kitchen,2026-02-01
+REV_0175,Fantastic value for money. The build quality is exceptional.,4,Clothing,2026-05-22
+REV_0176,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-01-30
+REV_0177,Fantastic value for money. The build quality is exceptional.,4,Home & Kitchen,2026-03-16
+REV_0178,"It does exactly what it says on the box, no more, no less.",3,Home & Kitchen,2026-05-04
+REV_0179,Terribly slow and glitchy. It keeps crashing every few minutes. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-04-09
+REV_0180,Highly recommend to anyone looking for high quality and great performance.,4,Clothing,2026-04-17
+REV_0181,Absolutely loved this product! It exceeded all my expectations.,5,Clothing,2026-03-18
+REV_0182,"The quality is extremely poor, feels cheap and fragile.",2,Home & Kitchen,2026-05-18
+REV_0183,"Extremely comfortable, fits perfectly and looks amazing.",5,Home & Kitchen,2026-04-27
+REV_0184,Customer service was completely unhelpful when I asked for a return.,1,Home & Kitchen,2026-03-01
+REV_0185,Terrible experience. The item arrived broken and stopped working after two days.,2,Clothing,2026-05-02
+REV_0186,"Extremely uncomfortable, shrunk after the very first wash. It overheats constantly and the screen resolution is awful.",2,Electronics,2026-05-07
+REV_0187,Very poor design choice. It is highly unintuitive to use.,1,Clothing,2026-01-26
+REV_0188,Completely disappointed. Total waste of money and time.,2,Home & Kitchen,2026-01-04
+REV_0189,"The quality is extremely poor, feels cheap and fragile. The pacing was terrible and the characters were flat.",2,Books,2026-05-01
+REV_0190,The plot made absolutely no sense and the ending was highly frustrating.,2,Home & Kitchen,2026-06-16
+REV_0191,"Extremely comfortable, fits perfectly and looks amazing.",5,Home & Kitchen,2026-03-23
+REV_0192,"An okay experience overall. Might consider other options next time. It's a standard thriller novel, good for a casual read.",3,Books,2026-06-08
+REV_0193,A masterclass in design. Works seamlessly right out of the box. The character development and psychological tension were amazing.,5,Books,2026-04-22
+REV_0194,Terribly slow and glitchy. It keeps crashing every few minutes. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-06-27
+REV_0195,Absolutely loved this product! It exceeded all my expectations.,4,Clothing,2026-01-15
+REV_0196,The plot twists kept me guessing until the very last page. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-03-04
+REV_0197,"A standard purchase. It meets basic requirements perfectly fine. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-02-13
+REV_0198,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",5,Electronics,2026-05-08
+REV_0199,Customer service was completely unhelpful when I asked for a return.,1,Home & Kitchen,2026-06-13
+REV_0200,Absolutely loved this product! It exceeded all my expectations.,5,Home & Kitchen,2026-03-15
+REV_0201,"The product arrived on time, but the packaging was slightly damaged. It's a standard thriller novel, good for a casual read.",3,Books,2026-04-24
+REV_0202,"Extremely uncomfortable, shrunk after the very first wash.",2,Clothing,2026-04-27
+REV_0203,"Extremely uncomfortable, shrunk after the very first wash.",1,Home & Kitchen,2026-01-28
+REV_0204,"Very efficient, saves me so much time daily. A great buy.",5,Clothing,2026-06-29
+REV_0205,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,5,Books,2026-05-25
+REV_0206,Deeply regretted this purchase. Avoid at all costs.,1,Home & Kitchen,2026-03-15
+REV_0207,Deeply regretted this purchase. Avoid at all costs.,1,Clothing,2026-02-26
+REV_0208,A standard purchase. It meets basic requirements perfectly fine.,3,Clothing,2026-06-23
+REV_0209,Completely disappointed. Total waste of money and time. The pacing was terrible and the characters were flat.,1,Books,2026-03-21
+REV_0210,Deeply regretted this purchase. Avoid at all costs.,1,Clothing,2026-02-03
+REV_0211,An absolute page-turner! I couldn't put it down.,5,Home & Kitchen,2026-02-14
+REV_0212,"Extremely comfortable, fits perfectly and looks amazing.",5,Clothing,2026-02-12
+REV_0213,Super fast delivery and brilliant functionality. 5 stars!,5,Clothing,2026-01-30
+REV_0214,Fantastic value for money. The build quality is exceptional. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-06-23
+REV_0215,Very poor design choice. It is highly unintuitive to use.,2,Clothing,2026-01-24
+REV_0216,Do not buy! The description is completely misleading. The pacing was terrible and the characters were flat.,1,Books,2026-04-27
+REV_0217,"Very efficient, saves me so much time daily. A great buy.",5,Home & Kitchen,2026-06-13
+REV_0218,Customer service was completely unhelpful when I asked for a return.,1,Home & Kitchen,2026-01-07
+REV_0219,"The customer service was helpful, but the setup process was tedious.",3,Clothing,2026-06-06
+REV_0220,Brilliantly written with complex characters and deep atmosphere.,4,Clothing,2026-06-16
+REV_0221,Absolutely loved this product! It exceeded all my expectations. The character development and psychological tension were amazing.,4,Books,2026-03-19
+REV_0222,Completely disappointed. Total waste of money and time. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-05-18
+REV_0223,An absolute page-turner! I couldn't put it down.,5,Home & Kitchen,2026-05-31
+REV_0224,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-05-06
+REV_0225,"It does exactly what it says on the box, no more, no less. It's a standard thriller novel, good for a casual read.",3,Books,2026-06-26
+REV_0226,Brilliantly written with complex characters and deep atmosphere. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-04-03
+REV_0227,"Extremely comfortable, fits perfectly and looks amazing.",5,Clothing,2026-01-16
+REV_0228,Highly recommend to anyone looking for high quality and great performance.,4,Home & Kitchen,2026-01-24
+REV_0229,"A standard purchase. It meets basic requirements perfectly fine. It's a standard thriller novel, good for a casual read.",3,Books,2026-01-13
+REV_0230,"The quality is extremely poor, feels cheap and fragile. It overheats constantly and the screen resolution is awful.",1,Electronics,2026-01-18
+REV_0231,Deeply regretted this purchase. Avoid at all costs. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-03-01
+REV_0232,"Very efficient, saves me so much time daily. A great buy. The character development and psychological tension were amazing.",4,Books,2026-03-12
+REV_0233,"The quality is extremely poor, feels cheap and fragile.",1,Clothing,2026-02-14
+REV_0234,Fantastic value for money. The build quality is exceptional. The character development and psychological tension were amazing.,4,Books,2026-04-02
+REV_0235,Deeply regretted this purchase. Avoid at all costs.,1,Clothing,2026-01-05
+REV_0236,Fantastic value for money. The build quality is exceptional.,4,Home & Kitchen,2026-05-15
+REV_0237,Brilliantly written with complex characters and deep atmosphere.,4,Home & Kitchen,2026-04-03
+REV_0238,"Average quality for the price. Not bad, but not great either.",3,Home & Kitchen,2026-05-09
+REV_0239,"Extremely comfortable, fits perfectly and looks amazing.",4,Clothing,2026-04-28
+REV_0240,"It works okay, but nothing extraordinary. Standard performance. It's a standard thriller novel, good for a casual read.",3,Books,2026-05-03
+REV_0241,Completely disappointed. Total waste of money and time.,2,Home & Kitchen,2026-04-24
+REV_0242,An absolute page-turner! I couldn't put it down. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-01-17
+REV_0243,The plot twists kept me guessing until the very last page.,5,Clothing,2026-04-27
+REV_0244,"Fits alright, but the material is a bit thinner than expected. It's a standard thriller novel, good for a casual read.",3,Books,2026-06-29
+REV_0245,The plot twists kept me guessing until the very last page.,4,Home & Kitchen,2026-02-28
+REV_0246,The plot twists kept me guessing until the very last page.,5,Home & Kitchen,2026-01-25
+REV_0247,Super fast delivery and brilliant functionality. 5 stars!,5,Clothing,2026-02-09
+REV_0248,"An okay experience overall. Might consider other options next time. It's a standard thriller novel, good for a casual read.",3,Books,2026-01-24
+REV_0249,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-04-06
+REV_0250,Deeply regretted this purchase. Avoid at all costs.,1,Clothing,2026-06-21
+REV_0251,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,5,Books,2026-03-15
+REV_0252,"The storyline was decent, but the pacing felt a bit slow in the middle. It's a standard thriller novel, good for a casual read.",3,Books,2026-05-28
+REV_0253,"The product arrived on time, but the packaging was slightly damaged.",3,Home & Kitchen,2026-02-27
+REV_0254,Very poor design choice. It is highly unintuitive to use.,2,Clothing,2026-01-30
+REV_0255,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-06-05
+REV_0256,Terrible experience. The item arrived broken and stopped working after two days. It overheats constantly and the screen resolution is awful.,2,Electronics,2026-03-11
+REV_0257,The plot made absolutely no sense and the ending was highly frustrating.,2,Clothing,2026-01-02
+REV_0258,"Very efficient, saves me so much time daily. A great buy.",4,Home & Kitchen,2026-01-18
+REV_0259,Highly recommend to anyone looking for high quality and great performance. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-04-07
+REV_0260,Fantastic value for money. The build quality is exceptional.,5,Clothing,2026-03-21
+REV_0261,Terrible experience. The item arrived broken and stopped working after two days. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-02-10
+REV_0262,Completely disappointed. Total waste of money and time.,1,Clothing,2026-04-24
+REV_0263,An okay experience overall. Might consider other options next time.,3,Home & Kitchen,2026-04-17
+REV_0264,An absolute page-turner! I couldn't put it down.,4,Home & Kitchen,2026-01-29
+REV_0265,"Extremely comfortable, fits perfectly and looks amazing.",5,Clothing,2026-01-12
+REV_0266,Absolutely loved this product! It exceeded all my expectations. Battery life is exceptional and the UI is incredibly smooth.,4,Electronics,2026-03-19
+REV_0267,Do not buy! The description is completely misleading.,1,Clothing,2026-03-25
+REV_0268,The plot twists kept me guessing until the very last page. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-02-03
+REV_0269,"Extremely comfortable, fits perfectly and looks amazing.",4,Clothing,2026-01-19
+REV_0270,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,4,Books,2026-04-28
+REV_0271,Deeply regretted this purchase. Avoid at all costs.,2,Home & Kitchen,2026-05-27
+REV_0272,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,5,Books,2026-04-14
+REV_0273,Fantastic value for money. The build quality is exceptional.,5,Home & Kitchen,2026-06-26
+REV_0274,"Extremely uncomfortable, shrunk after the very first wash. The pacing was terrible and the characters were flat.",1,Books,2026-03-04
+REV_0275,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",5,Books,2026-04-12
+REV_0276,Customer service was completely unhelpful when I asked for a return.,2,Clothing,2026-02-13
+REV_0277,"Extremely comfortable, fits perfectly and looks amazing. Battery life is exceptional and the UI is incredibly smooth.",4,Electronics,2026-03-31
+REV_0278,A masterclass in design. Works seamlessly right out of the box. The character development and psychological tension were amazing.,4,Books,2026-02-07
+REV_0279,"Very efficient, saves me so much time daily. A great buy. Battery life is exceptional and the UI is incredibly smooth.",4,Electronics,2026-06-17
+REV_0280,Brilliantly written with complex characters and deep atmosphere.,5,Home & Kitchen,2026-06-24
+REV_0281,The plot made absolutely no sense and the ending was highly frustrating. It overheats constantly and the screen resolution is awful.,2,Electronics,2026-04-23
+REV_0282,Super fast delivery and brilliant functionality. 5 stars!,5,Clothing,2026-06-01
+REV_0283,Super fast delivery and brilliant functionality. 5 stars!,4,Home & Kitchen,2026-04-26
+REV_0284,Super fast delivery and brilliant functionality. 5 stars! The character development and psychological tension were amazing.,5,Books,2026-06-15
+REV_0285,Deeply regretted this purchase. Avoid at all costs.,1,Home & Kitchen,2026-04-29
+REV_0286,"It works okay, but nothing extraordinary. Standard performance.",3,Home & Kitchen,2026-05-27
+REV_0287,"The storyline was decent, but the pacing felt a bit slow in the middle.",3,Home & Kitchen,2026-05-09
+REV_0288,Brilliantly written with complex characters and deep atmosphere. The character development and psychological tension were amazing.,4,Books,2026-03-29
+REV_0289,Very poor design choice. It is highly unintuitive to use. It overheats constantly and the screen resolution is awful.,1,Electronics,2026-01-11
+REV_0290,Brilliantly written with complex characters and deep atmosphere. Battery life is exceptional and the UI is incredibly smooth.,5,Electronics,2026-04-04
+REV_0291,The plot twists kept me guessing until the very last page.,5,Home & Kitchen,2026-03-28
+REV_0292,"It works okay, but nothing extraordinary. Standard performance.",3,Clothing,2026-01-17
+REV_0293,Super fast delivery and brilliant functionality. 5 stars!,5,Clothing,2026-06-18
+REV_0294,The plot made absolutely no sense and the ending was highly frustrating. The pacing was terrible and the characters were flat.,1,Books,2026-05-30
+REV_0295,"The storyline was decent, but the pacing felt a bit slow in the middle.",3,Clothing,2026-06-17
+REV_0296,"Fits alright, but the material is a bit thinner than expected. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-06-02
+REV_0297,Do not buy! The description is completely misleading.,1,Home & Kitchen,2026-06-14
+REV_0298,Very poor design choice. It is highly unintuitive to use. The pacing was terrible and the characters were flat.,1,Books,2026-06-15
+REV_0299,"The customer service was helpful, but the setup process was tedious.",3,Clothing,2026-01-05
+REV_0300,A masterclass in design. Works seamlessly right out of the box.,4,Clothing,2026-05-05
+REV_0301,Fantastic value for money. The build quality is exceptional. The character development and psychological tension were amazing.,4,Books,2026-03-17
+REV_0302,Very poor design choice. It is highly unintuitive to use. The pacing was terrible and the characters were flat.,1,Books,2026-06-19
+REV_0303,"Very efficient, saves me so much time daily. A great buy.",4,Home & Kitchen,2026-02-09
+REV_0304,Brilliantly written with complex characters and deep atmosphere. The character development and psychological tension were amazing.,4,Books,2026-04-16
+REV_0305,Brilliantly written with complex characters and deep atmosphere.,4,Clothing,2026-04-25
+REV_0306,Super fast delivery and brilliant functionality. 5 stars!,4,Home & Kitchen,2026-02-19
+REV_0307,Brilliantly written with complex characters and deep atmosphere.,5,Clothing,2026-04-08
+REV_0308,"Fits alright, but the material is a bit thinner than expected. The battery lasts a day, which is just standard nowadays.",3,Electronics,2026-02-21
+REV_0309,Do not buy! The description is completely misleading. The pacing was terrible and the characters were flat.,1,Books,2026-06-14
+REV_0310,"Extremely comfortable, fits perfectly and looks amazing. The character development and psychological tension were amazing.",5,Books,2026-05-13
+REV_0311,Completely disappointed. Total waste of money and time. It overheats constantly and the screen resolution is awful.,2,Electronics,2026-03-11
+REV_0312,The plot twists kept me guessing until the very last page. The character development and psychological tension were amazing.,4,Books,2026-02-26
+REV_0313,Terrible experience. The item arrived broken and stopped working after two days.,2,Home & Kitchen,2026-01-14
+REV_0314,A masterclass in design. Works seamlessly right out of the box.,5,Home & Kitchen,2026-01-21
+REV_0315,An absolute page-turner! I couldn't put it down. The character development and psychological tension were amazing.,4,Books,2026-06-16
+REV_0316,Fantastic value for money. The build quality is exceptional. The character development and psychological tension were amazing.,4,Books,2026-03-15
+REV_0317,"The quality is extremely poor, feels cheap and fragile.",2,Home & Kitchen,2026-04-25
+REV_0318,"Average quality for the price. Not bad, but not great either. It's a standard thriller novel, good for a casual read.",3,Books,2026-03-07
+REV_0319,"Extremely comfortable, fits perfectly and looks amazing.",4,Home & Kitchen,2026-01-29
+REV_0320,Do not buy! The description is completely misleading. The pacing was terrible and the characters were flat.,1,Books,2026-01-13

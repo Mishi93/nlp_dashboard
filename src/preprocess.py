@@ -1,32 +1,34 @@
 # nlp-dashboard/src/preprocess.py
-import os
+#
+# No external NLTK data required. Uses a bundled English stopword list
+# and a simple regex tokenizer instead of nltk.word_tokenize / nltk stopwords.
+# This avoids downloading (or committing) any NLTK data folder, which was
+# both slowing down cold starts and too large for the git repo.
+
 import re
 import string
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
 
-# Point NLTK at the bundled data folder shipped with the repo instead of
-# downloading resources at runtime. Assumes this file lives at
-# nlp-dashboard/src/preprocess.py and data lives at nlp-dashboard/nltk_data/
-# (generate it once locally with download_nltk_data.py, then commit it).
-_NLTK_DATA_PATH = os.path.join(
-    os.path.dirname(os.path.abspath(__file__)), "..", "nltk_data"
-)
-if _NLTK_DATA_PATH not in nltk.data.path:
-    nltk.data.path.append(_NLTK_DATA_PATH)
+# Standard English stopword list (same core set NLTK ships), hardcoded so
+# no download or bundled data file is needed.
+_STOPWORDS = frozenset("""
+a about above after again against all am an and any are aren't as at be
+because been before being below between both but by can't cannot could
+couldn't did didn't do does doesn't doing don't down during each few for
+from further had hadn't has hasn't have haven't having he he'd he'll he's
+her here here's hers herself him himself his how how's i i'd i'll i'm i've
+if in into is isn't it it's its itself let's me more most mustn't my
+myself no nor not of off on once only or other ought our ours ourselves
+out over own same shan't she she'd she'll she's should shouldn't so some
+such than that that's the their theirs them themselves then there there's
+these they they'd they'll they're they've this those through to too under
+until up very was wasn't we we'd we'll we're we've were weren't what
+what's when when's where where's which while who who's whom why why's
+with won't would wouldn't you you'd you'll you're you've your yours
+yourself yourselves
+""".split())
 
-# Fail fast and clearly if the bundled data is missing, rather than
-# silently falling back to a slow/flaky network download.
-try:
-    nltk.data.find("corpora/stopwords")
-    nltk.data.find("tokenizers/punkt")
-except LookupError as e:
-    raise RuntimeError(
-        "Bundled NLTK data not found at "
-        f"'{_NLTK_DATA_PATH}'. Run `python download_nltk_data.py` locally "
-        "and commit the resulting nltk_data/ folder to the repo."
-    ) from e
+# Matches sequences of word characters (letters/digits/underscore) as tokens.
+_WORD_RE = re.compile(r"\b\w+\b")
 
 
 class TextPreprocessor:
@@ -34,7 +36,7 @@ class TextPreprocessor:
         self.lower = lower
         self.remove_punctuation = remove_punctuation
         self.remove_digits = remove_digits
-        self.stop_words = set(stopwords.words('english'))
+        self.stop_words = _STOPWORDS
 
     def clean(self, text: str) -> str:
         """Applies basic pipeline cleansers: lowers, strips tags, and drops symbols."""
@@ -60,7 +62,7 @@ class TextPreprocessor:
     def tokenize_and_remove_stopwords(self, text: str) -> list:
         """Cleans input, tokenizes, and strips standard English stopwords."""
         cleaned_text = self.clean(text)
-        tokens = word_tokenize(cleaned_text)
+        tokens = _WORD_RE.findall(cleaned_text)
         filtered_tokens = [w for w in tokens if w not in self.stop_words]
         return filtered_tokens
 

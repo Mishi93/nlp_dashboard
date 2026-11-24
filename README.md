@@ -105,6 +105,14 @@ That 1.00 measures how well the model predicts the *rating band* from the review
 
 ## Screenshots
 
+<img width="1366" height="640" alt="image" src="https://github.com/user-attachments/assets/84bf5a21-fe1f-45d2-9dd1-ee7d10073b06" />
+
+<img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/2ba8f9c2-c5f9-4ef7-9790-4baa72594e7e" />
+
+<img width="1366" height="641" alt="image" src="https://github.com/user-attachments/assets/0af70cf2-01e6-4de6-8a87-59b431756d44" />
+
+
+
 
 ## Project structure
 
